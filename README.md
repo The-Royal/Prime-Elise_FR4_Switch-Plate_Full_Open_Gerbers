@@ -1,6 +1,6 @@
 # Prime_ Elise FR4 Switch-Plate
 
-![PEFR4](https://raw.githubusercontent.com/The-Royal/Prime-Elise_FR4_Switch-Plate_Full_Open_Gerbers/master/All_Expo_Prime_Elise_FR4-Switch-Plate_Render.png)
+![PEFR4](https://github.com/The-Royal/Prime-Elise_FR4_Switch-Plate_Full_Open_Gerbers/blob/master/Renders/All_Expo_Prime_Elise_FR4-Switch-Plate_Render.png)
 
  This is a switch plate Design modified from the files open-sourced by SNEAKBOX.DESIGN and Prime_KB.  
  
