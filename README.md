@@ -15,6 +15,8 @@ ___
 
 > **280mm x 92.9mm**
 
+- If you want the inner walls of the switch cutouts to be plated you can request **PTH *(Plated Through Holes)*** from certain facilities.  Confirm the action is valid to ensure they modify the fabrication.  It's not a normal feature of non-component PCBs.
+
 - Color can and is completely personal preference.  Though from trying different color renders.  The Configurations using **white silkscreen** look the best with the way I have integrated the sneakbox and royal logos ***(only really matters if you are using the Polycarbonate case with see-through "WKL" notches)***.
 
  
